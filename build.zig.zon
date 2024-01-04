@@ -1,5 +1,5 @@
 .{
-    .name = "microzig-raspberrypi-rp2040-examples",
+    .name = "NS-mcu",
     .version = "0.1.0",
     .dependencies = .{
         .microzig = .{
